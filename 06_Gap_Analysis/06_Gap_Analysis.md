@@ -40,4 +40,33 @@ Identify the gaps between the current business processes (AS-IS) and the future 
 | GAP-INV-004 | Inventory count on paper | ERP inventory count | Manual process              | Inventory Count Function      | Standard    |
 | GAP-INV-005 | No warehouse locations   | Bin management      | Poor warehouse organization | Warehouse Location Management | Enhancement |
 
-# Warehouse Management
+# HR Management
+
+| Gap ID     | Current State                  | Future State           | Gap                              | Solution                   | Type        |
+| ---------- | ------------------------------ | ---------------------- | -------------------------------- | -------------------------- | ----------- |
+| GAP-HR-001 | Employee data in Excel         | Employee Master        | No centralized employee database | Employee Management Module | Standard    |
+| GAP-HR-002 | Leave requests via Zalo        | Leave Workflow         | No leave management process      | Leave Request Workflow     | Standard    |
+| GAP-HR-003 | Attendance maintained manually | Attendance integration | No attendance integration        | Attendance Interface       | Integration |
+| GAP-HR-004 | Manual HR reporting            | HR Dashboard           | No HR analytics                  | Dashboard Module           | Standard    |
+
+# FINANCE Management
+
+| Gap ID      | Current State                 | Future State               | Gap                    | Solution                | Type        |
+| ----------- | ----------------------------- | -------------------------- | ---------------------- | ----------------------- | ----------- |
+| GAP-FIN-001 | AR tracked manually           | Real-time AR visibility    | No AR management       | AR Module               | Standard    |
+| GAP-FIN-002 | AP tracked manually           | Real-time AP visibility    | No AP management       | AP Module               | Standard    |
+| GAP-FIN-003 | Cash flow in Excel            | Real-time cash flow        | No cash flow dashboard | Finance Dashboard       | Standard    |
+| GAP-FIN-004 | MISA isolated from operations | Integrated finance process | No integration         | ERP Finance Integration | Integration |
+
+#GAP Summary
+
+| Module    | Gap Count |
+| --------- | --------- |
+| Sales     | 5         |
+| Warehouse | 5         |
+| HR        | 4         |
+| Finance   | 4         |
+| Total     | 18        |
+
+
+
