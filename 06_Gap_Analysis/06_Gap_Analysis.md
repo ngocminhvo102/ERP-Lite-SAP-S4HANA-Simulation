@@ -58,7 +58,7 @@ Identify the gaps between the current business processes (AS-IS) and the future 
 | GAP-FIN-003 | Cash flow in Excel            | Real-time cash flow        | No cash flow dashboard | Finance Dashboard       | Standard    |
 | GAP-FIN-004 | MISA isolated from operations | Integrated finance process | No integration         | ERP Finance Integration | Integration |
 
-#GAP Summary
+# GAP Summary
 
 | Module    | Gap Count |
 | --------- | --------- |
@@ -68,5 +68,36 @@ Identify the gaps between the current business processes (AS-IS) and the future 
 | Finance   | 4         |
 | Total     | 18        |
 
+# Development Prioritization
+# Phase 1 (Must Have)
+# Sales
+Quotation
+Sales Order
+Customer Management
+# Warehouse
+Inventory Management
+Goods Receipt
+Goods Issue
+# HR
+Employee Management
+Leave Request
+# Finance
+AR
+AP
+# Phase 2 (Should Have)
+Batch Management
+Expiry Tracking
+Dashboard Reporting
+# Phase 3 (Could Have)
+Attendance Integration
+Bin Location Management
+AI Reporting
+# Conclusion
+
+A total of 18 business gaps were identified between the current state and future state processes.
+
+Most gaps can be addressed through standard ERP functionality, while a small number require integration or custom enhancements.
+
+The GAP Analysis will serve as the foundation for the Business Blueprint and Solution Design phases.
 
 
