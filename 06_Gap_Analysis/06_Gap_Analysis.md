@@ -70,18 +70,18 @@ Identify the gaps between the current business processes (AS-IS) and the future 
 
 # Development Prioritization
 # Phase 1 (Must Have)
-Sales
+## Sales
 - Quotation
 - Sales Order
 - Customer Management
-Warehouse
+## Warehouse
 - Inventory Management
 - Goods Receipt
 - Goods Issue
-HR
+## HR
 - Employee Management
 - Leave Request
-Finance
+## Finance
 - AR
 - AP
 # Phase 2 (Should Have)
