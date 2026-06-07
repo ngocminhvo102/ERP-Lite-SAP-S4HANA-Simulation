@@ -70,28 +70,28 @@ Identify the gaps between the current business processes (AS-IS) and the future 
 
 # Development Prioritization
 # Phase 1 (Must Have)
-# Sales
-Quotation
-Sales Order
-Customer Management
-# Warehouse
-Inventory Management
-Goods Receipt
-Goods Issue
-# HR
-Employee Management
-Leave Request
-# Finance
-AR
-AP
+Sales
+- Quotation
+- Sales Order
+- Customer Management
+Warehouse
+- Inventory Management
+- Goods Receipt
+- Goods Issue
+HR
+- Employee Management
+- Leave Request
+Finance
+- AR
+- AP
 # Phase 2 (Should Have)
-Batch Management
-Expiry Tracking
-Dashboard Reporting
+- Batch Management
+- Expiry Tracking
+- Dashboard Reporting
 # Phase 3 (Could Have)
-Attendance Integration
-Bin Location Management
-AI Reporting
+- Attendance Integration
+- Bin Location Management
+- AI Reporting
 # Conclusion
 
 A total of 18 business gaps were identified between the current state and future state processes.
